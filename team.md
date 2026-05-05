@@ -3,7 +3,9 @@
 ## Account A
 - Role: Repository Owner
 - Environment: Primary Machine
-
+- username: sreejithore
 ## Account B
 - Role: Collaborator
-- Environment: WSL/VM
+- Environment: git bash
+- username: sreejithore-byte
+
